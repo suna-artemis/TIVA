@@ -1,0 +1,25 @@
+{
+  "name": "tiva",
+  "version": "1.0.0",
+  "description": "tiva is dvajs by typescript",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["dvajs"],
+  "author": "suna <suna.artemis@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "connected-react-router": "^6.9.3",
+    "dva-core": "^2.0.4",
+    "history": "^5.3.0",
+    "invariant": "^2.2.4",
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
+    "react-redux": "^8.1.0",
+    "react-router-dom": "^6.12.1",
+    "redux": "^4.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
